@@ -9,7 +9,7 @@ app.get("/ranking", (req, res) => {
 
         {
             position: 1,
-            userId: "8530006951",
+            userId: "8530006051",
             username: "Aiiin jummma",
             crown: 999
         },
